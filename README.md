@@ -1,2 +1,3 @@
-# git-demo
-Short git-demo project to be deleted
+# Node-with-React
+
+Node with react course
